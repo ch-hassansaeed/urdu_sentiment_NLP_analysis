@@ -1,6 +1,7 @@
 # urdu_sentiment_NLP_analysis
-**python project which will take input as urdu sentence and give output as it "positive" or "negitive" sentiment sentence.
-Main Demo File name as input.py (but urdu_sentiment_NLP_analysis_lib.py should put in your project folder)**
+**python project which will take input as urdu sentence and give output as it is "positive" or "negitive" sentiment sentence.
+
+Main Demo File name as input.py (but put urdu_sentiment_NLP_analysis_lib.py should  in your project folder)**
 
 ```
 from urdu_sentiment_NLP_analysis_lib import get_urdu_sentiment
@@ -25,8 +26,8 @@ Output:negative
 ---------------------------------------**
 
 **Note:** This is Possible with negative and positive keywrod list in urdu_sentiment_NLP_analysis_lib.py
-this is depend on your requirement if your requirement treat any other word as postive then you can add/edit in negative and positive keywrod list array.and it show sentimat result wrt to your keywrods.
-Speical Thanks to Mr.awaisathar whcih has list of urdu keywrod in his other html/javascript project(https://github.com/awaisathar/urdu-sentiment-lexicon)
+this is depend on your requirement if your requirement treat any other word as positive then you can add/edit in negative and positive keywrod list array.and it show sentimat result wrt to your keywrods.
+Speical Thanks to Mr.awaisathar whcih has list of urdu negative and positive keywrods txt file in his other html/javascript project(https://github.com/awaisathar/urdu-sentiment-lexicon)
 
 **negative and positive keywrod list Array:**
 ```
