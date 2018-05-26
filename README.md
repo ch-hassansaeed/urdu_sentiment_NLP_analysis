@@ -15,8 +15,8 @@ print(urdu_sentiment_output)
 **---------------------------------------
 Output:postive/nautral/non-sentimental
 ---------------------------------------**
+another example:-
 ```
-another exmple 
 urdu_input_sentence="""
 آپ بہت باتمیز انسان ہو    
 """
